@@ -3,7 +3,7 @@ kind: Cluster
 #define the cluster
 metadata:
   #user-defined name of the cluster; string
-  name: dev-1
+  name: dev-02
   #kubernetes namespace for the cluster; string
   namespace: dev
 #define the desired state of cluster
